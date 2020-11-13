@@ -9,4 +9,4 @@ with open('index.md', 'a') as out:
             module = file.readline().split(':')[1].split('-')
             out.write("| " + module[0][2:] + " | ")
             out.write(module[1][1:-2] + " | ")
-            out.write("[{}](\"{}\") |\n".format(lab, path.replace('\\', '/')))
+            out.write("[{}]({}) |\n".format(lab, path.replace('\\', '/').replace(' ', '\ ')))
