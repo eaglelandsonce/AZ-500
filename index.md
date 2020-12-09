@@ -7,8 +7,8 @@ Required labs files can be [downloaded here](https://github.com/MicrosoftLearnin
 Hyperlinks to each of the lab exercises and demos are listed below.
 
 #### Table of Contents
-1. [Course](#course)
-2. [Sandboxes](#sandboxes)
+- [Course](#course)
+- [Sandboxes](#sandboxes)
 
 ---
 
